@@ -8,3 +8,6 @@ Repositorio das atividades HTML da disciplina de WEB I.
 - Atividade 4 --> [Acesse aqui](Questão_4_.html)
 
 ## Lista de exercicios:
+- Exercicio 1 --> [Acesse aqui](Exercicio_1.html)
+- Exercicio 2 --> [Acesse aqui](Exercicio_2.html)
+
