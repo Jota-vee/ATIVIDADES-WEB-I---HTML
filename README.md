@@ -1,2 +1,6 @@
 # Atividades-WEB-I---HTML
-repositorio das atividades HTML da disciplina de WEB I.
+REepositorio das atividades HTML da disciplina de WEB I.
+
+Lista de atividades:
+-Atividade 1
+-Atividade 2
