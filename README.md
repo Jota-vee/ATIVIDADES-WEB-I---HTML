@@ -9,8 +9,11 @@ Repositorio das atividades HTML da disciplina de WEB I.
 - Atividade 5 --> [Acesse aqui](Atividade5.html)
 - Atividade 6 --> [Acesse aqui](Atividade6.html)
 - Atividade 7 --> [Acesse aqui](Atividade7.html)
+- Atividade 8 --> [Acesse aqui](Atividade8.html)
+- Atividade 9 --> [Acesse aqui](Atividade9.html)
 
 ## Lista de exercicios:
 - Exercicio 1 --> [Acesse aqui](Exercicio1.html)
 - Exercicio 2 --> [Acesse aqui](Exercicio2.html)
+- Exercicio 3 --> [Acesse aqui](Exercicio3.html)
 
