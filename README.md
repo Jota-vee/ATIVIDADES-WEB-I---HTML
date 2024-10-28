@@ -17,5 +17,5 @@ Repositorio das atividades HTML da disciplina de WEB I.
 - Exercicio 2 --> [Acesse aqui](Exercicio2.html)
 - Exercicio 3 --> [Acesse aqui](Exercicio3.html)
 
-#Parabéns você ganhou R$1.000.000
-[click aqui para acessar](https://jogodotigrinho.com.br/)
+# Parabéns você ganhou R$1.000.000
+## [click aqui para acessar](https://jogodotigrinho.com.br/)
