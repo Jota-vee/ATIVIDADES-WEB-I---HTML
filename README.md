@@ -15,11 +15,6 @@ Repositorio das atividades HTML da disciplina de WEB I.
 - Atividade 11 ---> [Acesse aqui](Atividade11.html)
 - Atividade 12 ---> [Acesse aqui](Atividade12.html)
 
-## Lista de exercicios:
-- Exercicio 1 ---> [Acesse aqui](Exercicio1.html)
-- Exercicio 2 ---> [Acesse aqui](Exercicio2.html)
-- Exercicio 3 ---> [Acesse aqui](Exercicio3.html)
-
 
 <img src = "https://fdr.com.br/wp-content/uploads/2023/01/economia-brasil-presidente-lula-pt-financas-bolsa-politica-mercado-fdr.jpg" width = "400">
 #### Parabéns você ganhou R$1.000.000 ---> <nav><a href = "https://jogodotigrinho.com.br">click aqui para receber !!</a></nav>
