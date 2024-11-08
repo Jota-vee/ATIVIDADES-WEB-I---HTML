@@ -24,4 +24,4 @@ Repositorio das atividades HTML da disciplina de WEB I.
 <img src = "https://www.pragmatismopolitico.com.br/wp-content/uploads/2018/10/voto-em-bolsonaro-ha-raiva-e-tristeza-mostra-datafolha.jpg" width = "400">
 <h4>Não acredite nele, ele está mentindo</h4>
 <img src = "https://veja.abril.com.br/wp-content/uploads/2016/06/alx_lula-brasil20160304_0037_original3.jpeg" width = "400">
-<h4>o que disses ??!!!!!</h4>
+<img src = "https://seucreditodigital.com.br/wp-content/uploads/2023/05/Bolsonaro-com-expressao-de-raiva-2.jpg" width = "400">
