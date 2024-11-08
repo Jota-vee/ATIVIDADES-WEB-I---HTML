@@ -22,4 +22,4 @@ Repositorio das atividades HTML da disciplina de WEB I.
 
 
 <img src = "https://fdr.com.br/wp-content/uploads/2023/01/economia-brasil-presidente-lula-pt-financas-bolsa-politica-mercado-fdr.jpg" width = "400">
-#### Parabéns você ganhou R$1.000.000 ---> [click aqui para acessar](https://jogodotigrinho.com.br/)
+#### Parabéns você ganhou R$1.000.000 ---> <nav><a href = "https://jogodotigrinho.com.br">click aqui para receber !!</a></nav>
