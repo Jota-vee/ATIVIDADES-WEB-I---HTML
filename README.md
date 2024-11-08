@@ -20,5 +20,5 @@ Repositorio das atividades HTML da disciplina de WEB I.
 - Exercicio 2 ---> [Acesse aqui](Exercicio2.html)
 - Exercicio 3 ---> [Acesse aqui](Exercicio3.html)
 
-<img src = "https://fdr.com.br/wp-content/uploads/2023/01/economia-brasil-presidente-lula-pt-financas-bolsa-politica-mercado-fdr.jpg" width = "300x900">
+<img src = "https://fdr.com.br/wp-content/uploads/2023/01/economia-brasil-presidente-lula-pt-financas-bolsa-politica-mercado-fdr.jpg" width = "300">
 #### Parabéns você ganhou R$1.000.000 ---> [click aqui para acessar](https://jogodotigrinho.com.br/)
