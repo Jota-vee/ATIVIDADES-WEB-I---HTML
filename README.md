@@ -19,3 +19,5 @@ Repositorio das atividades HTML da disciplina de WEB I.
 
 <img src = "https://fdr.com.br/wp-content/uploads/2023/01/economia-brasil-presidente-lula-pt-financas-bolsa-politica-mercado-fdr.jpg" width = "400">
 <h4>Parabéns você ganhou R$1.000.000  </h4><nav><a href = "https://jogodotigrinho.com.br">click aqui para receber !!</a></nav>
+<img src = "https://www.pragmatismopolitico.com.br/wp-content/uploads/2018/10/voto-em-bolsonaro-ha-raiva-e-tristeza-mostra-datafolha.jpg" width = "400">
+<h4>Não acredite nele, ele está mentindo</h4>
